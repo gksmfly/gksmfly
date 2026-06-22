@@ -4,22 +4,8 @@
 <p>Hello! I'm Seoyeon Kim! 👋</p>
 <p>AI Researcher interested in RAG, LLM systems, and Korean NLP.</p>
 
-<div>
-  <div style="display: flex; align-items: center;">
-    <a href="https://github.com/gksmfly">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="25">
-    </a>
-    <span style="margin-left: 10px;">GitHub: </span>
-    <a href="https://github.com/gksmfly">@gksmfly</a>
-  </div>
-  <div style="display: flex; align-items: center;">
-    <a href="mailto:gimhaneul24@gmail.com">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Gmail Icon" width="18">
-    </a>
-    <span style="margin-left: 10px;">Email: </span>
-    <a href="mailto:gimhaneul24@gmail.com">gimhaneul24@gmail.com</a>
-  </div>
-</div>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="22"> GitHub: <a href="https://github.com/gksmfly">@gksmfly</a><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Gmail Icon" width="16"> Email: <a href="mailto:gimhaneul24@gmail.com">gimhaneul24@gmail.com</a>
 
 <hr>
 
@@ -35,17 +21,14 @@ My work spans knowledge graph construction, multi-agent architectures, and Korea
 
 ## 🏢 Career
 
-> 🎓 **Korean Bible University**  
-> 2023.03. ~ Present  
-> Computer Software / School of AI Convergence
+🎓 **Korean Bible University** | 2023.03. ~ Present  
+Computer Software / School of AI Convergence
 
-> 📊 **BOAZ Big Data Club**  
-> 2026.01. ~ Present  
-> Core Member | Analytics Division 26th
+📊 **BOAZ Big Data Club** | 2026.01. ~ Present  
+Core Member | Analytics Division 26th
 
-> 🔬 **INSIGHT LAB**  
-> 2026.01. ~ 2026.06.  
-> Undergraduate Researcher | RAG & LLM-based system development
+🔬 **INSIGHT LAB** | 2026.01. ~ 2026.06.  
+Undergraduate Researcher | RAG & LLM-based system development
 
 ---
 
@@ -57,7 +40,7 @@ My work spans knowledge graph construction, multi-agent architectures, and Korea
 
 ---
 
-<h3 align="center">🛠 Tech Stack</h3>
+## 🛠 Tech Stack
 
 <h4 align="center">Languages</h4>
 <p align="center">
