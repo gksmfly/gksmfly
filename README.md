@@ -11,7 +11,7 @@
 
 ## 👩‍💻 About
 I'm an AI researcher focused on building LLM-based systems and retrieval-augmented generation pipelines.  
-My work spans knowledge graph construction, multi-agent architectures, and Korean NLP — with a strong interest in data quality and label noise in real-world ML workflows.
+My work spans knowledge graph construction, multi-agent architectures, and Korean NLP - with a strong interest in data quality and label noise in real-world ML workflows.
 
 - Building RAG systems and multi-agent pipelines for document understanding  
 - Exploring knowledge graph-based multi-hop reasoning  
