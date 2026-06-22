@@ -1,5 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=Venom&color=89CFF0&height=280&section=header&text=Seoyeon%20Kim&fontSize=70" />
-<hr>
+<h2 align="center">Seoyeon Kim</h2>
+<p align="center">
+  RAG · LLM · Korean NLP
+</p>
+
+---
 
 <p>Hello! I'm Seoyeon Kim! 👋</p>
 <p>AI Researcher interested in RAG, LLM systems, and Korean NLP.</p>
@@ -11,7 +15,7 @@
 
 ## 👩‍💻 About
 I'm an AI researcher focused on building LLM-based systems and retrieval-augmented generation pipelines.  
-My work spans knowledge graph construction, multi-agent architectures, and Korean NLP - with a strong interest in data quality and label noise in real-world ML workflows.
+My work spans knowledge graph construction, multi-agent architectures, and Korean NLP — with a strong interest in data quality and label noise in real-world ML workflows.
 
 - Building RAG systems and multi-agent pipelines for document understanding  
 - Exploring knowledge graph-based multi-hop reasoning  
