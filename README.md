@@ -2,15 +2,13 @@
 <p align="center">
   RAG · LLM · Korean NLP
 </p>
-
+---
 
 <p>Hello! I'm Seoyeon Kim! 👋</p>
 <p>AI Researcher interested in RAG, LLM systems, and Korean NLP.</p>
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="22"> GitHub: <a href="https://github.com/gksmfly">@gksmfly</a><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Gmail Icon" width="16"> Email: <a href="mailto:gimhaneul24@gmail.com">gimhaneul24@gmail.com</a>
-
----
 
 <hr>
 
