@@ -1,9 +1,7 @@
-<h2 align="center">Seoyeon Kim</h2>
+<h1 align="center">Seoyeon Kim</h1>
 <p align="center">
   RAG · LLM · Korean NLP
 </p>
-
----
 
 <p>Hello! I'm Seoyeon Kim! 👋</p>
 <p>AI Researcher interested in RAG, LLM systems, and Korean NLP.</p>
