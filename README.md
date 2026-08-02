@@ -2,6 +2,7 @@
 <p align="center">
   RAG · LLM · Korean NLP
 </p>
+<hr>
 
 <p>Hello! I'm Seoyeon Kim! 👋</p>
 <p>AI Researcher interested in RAG, LLM systems, and AI Agent.</p>
