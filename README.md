@@ -20,7 +20,7 @@ My work spans knowledge graph construction, multi-agent architectures, and Korea
 **Korean Bible University** | 2023.03. ~ Present  
 Computer Software, School of AI Convergence
 
-**SKT FLY AI** | 2026.06. ~ Present  
+**SKT FLY AI** | 2026.06. ~ 2026.09. 
 AI Challenger | 9th Generation
 
 **BOAZ Big Data Club** | 2026.01. ~ Present  
