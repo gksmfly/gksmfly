@@ -18,17 +18,17 @@ My work spans knowledge graph construction, multi-agent architectures, and Korea
 ---
 ## 🏢 Career
 
-**Korean Bible University** | 2023.03. ~ Present  
-Computer Software, School of AI Convergence
+> **Korean Bible University** | 2023.03. ~ Present  
+> Computer Software, School of AI Convergence
 
-**SKT FLY AI** | 2026.06. ~ 2026.09. 
-AI Challenger | 9th Generation
+> **SKT FLY AI** | 2026.06. ~ 2026.09. 
+> AI Challenger | 9th Generation
 
-**BOAZ Big Data Club** | 2026.01. ~ Present  
-Core Member | Analytics Division 26th
+> **BOAZ Big Data Club** | 2026.01. ~ Present  
+> Core Member | Analytics Division 26th
 
-**INSIGHT LAB** | 2026.01. ~ 2026.06.  
-Undergraduate Researcher | RAG & LLM-based system development
+> **INSIGHT LAB** | 2026.01. ~ 2026.06.  
+> Undergraduate Researcher | RAG & LLM-based system development
 
 ---
 ## 💡 Interest
