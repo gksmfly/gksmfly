@@ -29,17 +29,14 @@ My work spans knowledge graph construction, multi-agent architectures, and Korea
 > **NLP-based Online Expressive Writing Emotion Analysis Platform** | 2026.09. ~ Present  
 > Research Assistant
 
-> **SKT FLY AI** | 2026.06. ~ 2026.09.  
-> AI Challenger | 9th Generation
+> **SKT FLY AI Challenger** | 2026.06. ~ 2026.09.  
+> AI & Cloud Developer
 
 > **BOAZ Big Data Club** | 2026.01. ~ Present  
 > Core Member | Analytics Division 26th
 
 > **INSIGHT LAB** | 2026.01. ~ 2026.06.  
 > Undergraduate Researcher | RAG & LLM-based system development
-
-> **LG Aimers 5th** | 2024.07. ~ 2024.08.  
-> Program Graduate
 
 > **Korean Bible University** | 2023.03. ~ Present  
 > Computer Software, School of AI Convergence
@@ -49,10 +46,11 @@ My work spans knowledge graph construction, multi-agent architectures, and Korea
 ## 🏆 Awards
 <div align="center">
 
-| 연도 | 수상 | 대회 / 기관 |
-|:---:|:---:|:---:|
-| 2026.09 | Excellence Award (개인 부문) | SKT FLY AI Challenger 9th |
-| 2025.11 | Gold Prize | 제20회 총장배 AI융합경진대회 · 한국성서대학교 |
+| 연도 | 대회 | 수상 | 레포 |
+|:---:|:---:|:---:|:---:|
+| 2026.09 | SKT FLY AI CHALLENGER 9기 개인 부문 | SK텔레콤 대표이사상 | [Snap-Sight](https://github.com/SKT-FLY-AI-Challenger-9/Snap-Sight) |
+| 2026.09 | SKT FLY AI CHALLENGER 9기 프로젝트 부문 | SK텔레콤 대표이사상 | [Snap-Sight](https://github.com/SKT-FLY-AI-Challenger-9/Snap-Sight) |
+| 2025.11 | 제20회 총장배 AI융합경진대회 | Gold Prize | [Insurance AI](https://github.com/gksmfly/insurance_ai) |
 
 </div>
 
