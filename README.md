@@ -69,8 +69,10 @@ My work spans knowledge graph construction, multi-agent architectures, and Korea
 
 ## 📄 Publications
 
-- Contract Clause Risk Prediction via Forward-Backward Consistency Check
-  - Seoyeon Kim, Wonbin Kim* · KAICTS 2026, pp. 176–177 (May 2026) LLM이 생성한 법률 주석에서 근거 없는 라벨을 걸러내는 3단계 검증 기법 제안
+- **Contract Clause Risk Prediction via Forward-Backward Consistency Check**
+  
+  Seoyeon Kim, Wonbin Kim* · KAICTS 2026, pp. 176–177 (May 2026)  
+  LLM이 생성한 법률 주석에서 근거 없는 라벨을 걸러내는 3단계 검증 기법 제안
 
 ---
 
