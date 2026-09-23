@@ -49,7 +49,6 @@ My work spans knowledge graph construction, multi-agent architectures, and Korea
 | 연도 | 대회 | 수상 | 레포 |
 |:---:|:---:|:---:|:---:|
 | 2026.09 | SKT FLY AI CHALLENGER 9기 개인 부문 | SK텔레콤 대표이사상 | [Snap-Sight](https://github.com/SKT-FLY-AI-Challenger-9/Snap-Sight) |
-| 2026.09 | SKT FLY AI CHALLENGER 9기 프로젝트 부문 | SK텔레콤 대표이사상 | [Snap-Sight](https://github.com/SKT-FLY-AI-Challenger-9/Snap-Sight) |
 | 2025.11 | 제20회 총장배 AI융합경진대회 | Gold Prize | [Insurance AI](https://github.com/gksmfly/insurance_ai) |
 
 </div>
@@ -70,24 +69,8 @@ My work spans knowledge graph construction, multi-agent architectures, and Korea
 
 ## 📄 Publications
 
-- **Contract Clause Risk Prediction via Forward-Backward Consistency Check**
-  Seoyeon Kim, Wonbin Kim* · *KAICTS 2026*, pp. 176–177 (May 2026)
-  LLM이 생성한 법률 주석에서 근거 없는 라벨을 걸러내는 3단계 검증 기법 제안
-
----
-
-## 💻 Projects
-<div align="center">
-
-| 프로젝트 | 소개 | 역할 | 상태 |
-|:--|:--|:--:|:--:|
-| **R&D CoopGraph** | LightRAG 기반 지식그래프 검색 시스템으로<br>국가 R&D 과제 문서 간 멀티홉 관계 추론 구현 | Team Leader | 🔴 종료 |
-| **ContractRisk-Guard** | FTC 시정조치 기반 3,352개 한국어 계약 조항 리스크 데이터셋 구축,<br>FB-Check로 라벨 정합도 개선(39.0%→42.8%), KoELECTRA 파인튜닝 | Individual | 🟢 진행 중 |
-| **Policy Reco** | 규칙 필터링 + RAG Q&A + TF-IDF 검색을 결합한<br>청년 주거정책 추천 서비스 | Team Member | 🔴 종료 |
-| **Emotion Analyzer** | YAML 기반 커스텀 사전으로<br>한국어 부정 감성 분석 파이프라인 구축 | Team Member | 🟢 진행 중 |
-| **Insurance AI** | RAG 기반 보험 Q&A API, 의미 유사도 0.928 달성<br>(제20회 총장배 AI융합경진대회 금상) | Team Leader | 🔴 종료 |
-
-</div>
+- Contract Clause Risk Prediction via Forward-Backward Consistency Check
+  - Seoyeon Kim, Wonbin Kim* · KAICTS 2026, pp. 176–177 (May 2026) LLM이 생성한 법률 주석에서 근거 없는 라벨을 걸러내는 3단계 검증 기법 제안
 
 ---
 
