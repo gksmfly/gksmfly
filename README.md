@@ -1,12 +1,12 @@
 <h1 align="center">Seoyeon Kim</h1>
 <p align="center">
-  RAG · LLM · Korean NLP
+  AI Engineer · Undergraduate Researcher
 </p>
 
 <hr>
 
 <p>Hello! I'm Seoyeon Kim! 👋</p>
-<p>AI Researcher interested in RAG, LLM systems, and Korean NLP.</p>
+<p>AI Researcher interested in RAG, LLM systems, and AI Agent.</p>
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="22"> GitHub: <a href="https://github.com/gksmfly">@gksmfly</a><br>
 <img src="https://cdn.simpleicons.org/velog/20C997" alt="Velog Icon" width="16"> Velog: <a href="https://velog.io/@gksmfly">@gksmfly</a><br>
