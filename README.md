@@ -61,7 +61,7 @@ My work spans knowledge graph construction, multi-agent architectures, and Korea
 | 연도 | 자격증 | 관리기관 |
 |:---:|:---:|:---:|
 | 2026.08 | Nano-degree in Machine Learning Practice | 한국성서대학교 |
-| 2025.06 | 정보처리기사 | 한국산업인력공단 |
+| 2025.06 | 정보처리산업기사 | 한국산업인력공단 |
 
 </div>
 
